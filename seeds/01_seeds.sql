@@ -12,8 +12,7 @@ VALUES
 
 INSERT INTO properties (owner_id, title, description, thumbnail_photo_url, cover_photo_url, cost_per_night, parking_spaces, number_of_bathrooms, number_of_bedrooms, country, street, city, province, post_code, active)
 VALUES
-(
-  1,'Speed lamp','description','https://images.pexels.com/photos/2086676/pexels-photo-2086676.jpeg?auto=compress?cs=tinysrcgb&h=350','https://images.pexels.com/photos/2086676/pexels-photo-2086676.jpeg',93061,6,4,8,'Canada','536 Namsub Highway','Sotboske','Alberta','83680',true),
+(1,'Speed lamp','description','https://images.pexels.com/photos/2086676/pexels-photo-2086676.jpeg?auto=compress?cs=tinysrcgb&h=350','https://images.pexels.com/photos/2086676/pexels-photo-2086676.jpeg',93061,6,4,8,'Canada','536 Namsub Highway','Sotboske','Alberta','83680',true),
 (1,'Blank corner','description','https://images.pexels.com/photos/2121121/pexels-photo-2121121.jpeg?auto=compress?cs=tinysrcgb&h=350','https://images.pexels.com/photos/2121121/pexels-photo-2121121.jpeg',85234,6,6,7,'Canada','651 Nami Road','Bohbatev','Newfoundland And Labrador','44583',true),
 (2,'Habit mix','description','https://images.pexels.com/photos/2080018/pexels-photo-2080018.jpeg?auto=compress?cs=tinysrcgb&h=350','https://images.pexels.com/photos/2080018/pexels-photo-2080018.jpeg',46058,0,5,6,'Canada','1650 Hejto Center','Genwezuj','Ontario','38051',true),
 (4,'Headed know','description','https://images.pexels.com/photos/1029599/pexels-photo-1029599.jpeg?auto=compress?cs=tinysrcgb&h=350','https://images.pexels.com/photos/1029599/pexels-photo-1029599.jpeg',82640,0,5,5,'Canada','513 Powov Grove','Jaebvap','Nova Scotia','81051',true),
