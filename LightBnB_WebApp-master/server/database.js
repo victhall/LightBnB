@@ -179,6 +179,7 @@ const addProperty = function (property) {
 
   return pool.query(queryString, values)
     .then(res => res.rows[0])
+    .catch(err => console.log(error))
 }
 exports.addProperty = addProperty;
 
